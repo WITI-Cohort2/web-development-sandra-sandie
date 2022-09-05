@@ -1,0 +1,39 @@
+
+.body{
+    background-color: white;
+}
+.tag{background-color:aqua;
+    margin: 10px;
+    border-radius: 0%;
+    padding: 5px;
+}
+.san{
+    background-color: blueviolet;
+    margin:5px ;
+    border-radius: 0%;
+    padding: 2px;
+}
+.yan{
+    background-color:yellow;
+    margin:5px ;
+    border-radius: 0%;
+    padding: 2px;
+}
+.hax{
+    background-color:blue;
+    margin:5px ;
+    border-radius: 0%;
+    padding: 2px;
+}
+.wan{
+    background-color:yellowgreen;
+    margin:5px ;
+    border-radius: 0%;
+    padding: 2px;
+}
+.plus{
+    background-color:brown;
+    margin:5px ;
+    border-radius: 0%;
+    padding: 2px;
+}
